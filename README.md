@@ -72,3 +72,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 # -Quote-Management-System
+
+# https://www.notion.so/Backend-Interview-Task-Quote-Management-System-f507ade707ee46aaa450edff68ba61f0
